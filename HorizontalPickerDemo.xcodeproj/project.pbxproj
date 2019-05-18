@@ -390,6 +390,7 @@
 					7306433A1C1DA79B00A423A6 = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = 4VQVU766P5;
+						LastSwiftMigration = 1020;
 					};
 					730643431C1DA79B00A423A6 = {
 						CreatedOnToolsVersion = 7.2;
@@ -402,6 +403,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -755,6 +757,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -779,6 +782,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = de.berndrabe.HorizontalPicker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
